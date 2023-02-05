@@ -1,0 +1,4 @@
+repository "roots foo fighting@cloud_plastic@cloud"
+  path "/"
+    br "/main"
+    co "/main"
